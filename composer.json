@@ -1,0 +1,16 @@
+{
+    "name": "vendor/supplier-order-email",
+    "description": "This installation provides support for Supplier Order Email plugin",
+    "type": "project",
+    "license": "propietary",
+    "authors": [
+        {
+            "name": "mcidesarrollo",
+            "email": "soporte@mci-desarrollo.es"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
